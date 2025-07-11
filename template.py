@@ -14,11 +14,13 @@ list_of_files = [
     "static/styles.css",
     "app.py",
     ".env",
-    "Dockerfile"
+    "Dockerfile",
     "requirements.txt",
+   
+   
     "templates/index.html",
-    "test.py",
-    
+    "test.py"
+   
 ]
 
 for filepath in list_of_files:
